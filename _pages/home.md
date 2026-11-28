@@ -4,7 +4,7 @@ layout: homelay
 permalink: /
 ---
 
-<h1 class="home-hero">{{ Sanli Research Group }}</h1>
+<h1 class="home-hero">{{ site.name }}</h1>
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
