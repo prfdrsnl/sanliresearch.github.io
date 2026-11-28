@@ -4,11 +4,11 @@ layout: homelay
 permalink: /
 ---
 
-<h1 class="home-hero">{{ site.name }}</h1>
+<h1 class="home-hero">{{ Sanli Research Group }}</h1>
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ '/research' | relative_url }}" class="chip">Quantum Electrodynamics</a>
+<a href="{{ '/research' | relative_url }}" class="chip">Flexible Bioelectronics</a>
 <a href="{{ '/research' | relative_url }}" class="chip">Path Integrals</a>
 <a href="{{ '/research' | relative_url }}" class="chip">Superfluidity</a>
 <a href="{{ '/research' | relative_url }}" class="chip">Parton Model</a>
