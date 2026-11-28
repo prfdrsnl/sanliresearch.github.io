@@ -12,11 +12,11 @@ photo: sanli.jpeg  # place your photo in images/
 # ============================================================
 links:
   google_scholar: "https://scholar.google.com/citations?user=aPkvVnsAAAAJ&hl=en"
-  github: "https://github.com/"
+  #github: "https://github.com/"
   researchgate: "https://www.researchgate.net/profile/Abdulkadir-Sanli?ev=hdr_xprf"
   orcid: "https://orcid.org/0000-0002-9768-9005"
-  twitter: ""
-  linkedin: ""
+  #twitter: ""
+  linkedin: "https://www.linkedin.com/in/drsanli/"
   cv: ""  # e.g., "papers/cv.pdf"
 
 # ============================================================
