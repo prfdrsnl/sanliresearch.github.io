@@ -8,11 +8,9 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
+<a href="{{ '/research' | relative_url }}" class="chip">Functional Polymers </a>
 <a href="{{ '/research' | relative_url }}" class="chip">Flexible Bioelectronics</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Path Integrals</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Superfluidity</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Parton Model</a>
-<a href="{{ '/research' | relative_url }}" class="chip">Quantum Computing</a>
+<a href="{{ '/research' | relative_url }}" class="chip">Sensors and Actuators</a>
 <a href="{{ '/research' | relative_url }}" class="chip">Nanotechnology</a>
 </div>
 
